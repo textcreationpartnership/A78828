@@ -1,0 +1,215 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Kings Majesties last declaration to the Lord Mountague, and the rest of the commissioners of Parliament with the army. Wherein is declared, His Majesties desires to the said commissioners, concerning His Highnesse the Duke of York. And the armies propositions for peace, to both Houses of Parliament; together with the Parliaments answer, and his Excellency Sir Thomas Fairfax his reply.</title>
+            <author>Rishton, Robert.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78828</idno>
+            <idno type="STC">Wing C2365</idno>
+            <idno type="STC">Thomason E396_14</idno>
+            <idno type="STC">ESTC R201650</idno>
+            <idno type="EEBO-CITATION">99862150</idno>
+            <idno type="PROQUEST">99862150</idno>
+            <idno type="VID">160346</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78828)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 160346)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 63:E396[14])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Kings Majesties last declaration to the Lord Mountague, and the rest of the commissioners of Parliament with the army. Wherein is declared, His Majesties desires to the said commissioners, concerning His Highnesse the Duke of York. And the armies propositions for peace, to both Houses of Parliament; together with the Parliaments answer, and his Excellency Sir Thomas Fairfax his reply.</title>
+                  <author>Rishton, Robert.</author>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R. Rishton, and are to be sold at the Royall Exchange in Cornhill,</publisher>
+                  <pubPlace>London: :</pubPlace>
+                  <date>Iuly 3. 1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Not in fact the King's declaration; rather, a letter dated and signed at end: Wickham 2 July 1647. R. Rishton.</note>
+                  <note>Signatures: [A]⁴.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Fairfax, Thomas Fairfax, --  Baron, 1612-1671 --  Early works to 1800.</term>
+               <term>Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term>Great Britain. --  Army --  Early works to 1800.</term>
+               <term>England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-02</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:160346:1" rendition="simple:additions"/>
+            <p>THE KINGS Majeſties laſt DECLARATION TO The Lord <hi>Mountague,</hi> and the reſt of the Commiſſioners of <hi>PARLIAMENT</hi> with the ARMY.</p>
+            <p>Wherein is declared, <hi>His Majeſties Deſires to the ſaid Com<g ref="char:EOLhyphen"/>miſſioners, concerning His Highneſſe the DUKE of YORK.</hi>
+            </p>
+            <p>
+               <hi>AND</hi> The Armies <hi>Propoſitions for Peace,</hi> to Both Houſes of Parliament; together with the Parliaments Anſwer, and his Excellency Sir <hi>Thomas Fairfax</hi> his Reply.</p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>R. Riſhton,</hi> and are to be ſold at the Royall Exchange in <hi>Cornhill, Iuly</hi> 3. 1647.</p>
+            <pb facs="tcp:160346:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:160346:2"/>
+            <head>The Kings MAJESTIES DECLARATION, <hi>Preſented to His loyall and faithfull Subiects upon His going to Windſor.</hi>
+            </head>
+            <opener>
+               <salute>Sir,</salute>
+            </opener>
+            <p>HAving obtained ſuch a fit opportunity, to expreſſe my willingneſſe in a ſa<g ref="char:EOLhyphen"/>tisfactory way, to all your Deſires, I ſhall here impartially communicate the moſt re<g ref="char:EOLhyphen"/>markableſt Occurrents, which hath (lately) ebb'd and flowed, within the Kingdomes great Streame, whoſe appearance in this in<g ref="char:EOLhyphen"/>ſtance of time, ſeemes to be the Worlds chie<g ref="char:EOLhyphen"/>feſt Object. But by reaſon of breviation, and the deſire of a ſudden diſpatch, of ſome of theſe papers to the Army, I muſt of (neceſ<g ref="char:EOLhyphen"/>ſity) betake my ſelf to my limited bounds,
+<pb facs="tcp:160346:3"/>
+and briefly inſiſt upon thoſe things which are of grea<g ref="char:EOLhyphen"/>teſt concernment, being ſo much deſired by the whole Kingdome, <hi>viz.</hi>
+            </p>
+            <p>The Kings Majeſty having received a Copy of ſome certain Votes, agreed upon by the Lords and Com<g ref="char:EOLhyphen"/>mons in Parliament aſſembled, touching the remo<g ref="char:EOLhyphen"/>ving of the Kings Majeſty to <hi>Holdenby;</hi> At the rea<g ref="char:EOLhyphen"/>ding whereof, His Majeſty began to ſhew a great diſ<g ref="char:EOLhyphen"/>like of the ſame, and His great unwillingneſſe to re<g ref="char:EOLhyphen"/>turn to <hi>Holdenby,</hi> and after ſome conſultation there<g ref="char:EOLhyphen"/>upon, His Majeſty declared His Reſolution to the Right Honourable the Earle of <hi>Denbigh,</hi> the Lord <hi>Mountague,</hi> and the reſt of the Parliaments Commiſ<g ref="char:EOLhyphen"/>ſioners, now reſiding with his Majeſty, concerning the ſaid Votes; Wherein He further declares, his full re<g ref="char:EOLhyphen"/>ſolution and determination touching the particulars mentioned therein, and more particularly, concerning the Vote for diſpoſall of His Royall Perſon, further declaring,</p>
+            <p>
+               <q>That He hath ſet down his Reſolution, concerning his return to Holmby, and <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hat he cannot give his Royall aſ<g ref="char:EOLhyphen"/>ſent for complyance with the ſaid Vote, having fully re<g ref="char:EOLhyphen"/>ſolved for Windſor, and to that end, great preparations are making for the entertainment of His Royall Perſon, divers Carriages being already diſpatched thither, for the better accommodation of his Majeſty.</q>
+            </p>
+            <p>His Majeſty further declared, <hi>That He deſires the Duke of</hi> York, <hi>and the reſt of His Children at</hi> London, <hi>may be ſpeedily ſent down thither; which if granted, it will give great ſatisfaction to his Majeſty, by reaſon of his long and earneſt deſire, to ſee thoſe Princely Babes, whom He hath for many yeares, wanted the ſight of.</hi>
+            </p>
+            <p>His Majeſty having thus declared his will and plea<g ref="char:EOLhyphen"/>ſure,
+<pb facs="tcp:160346:3"/>
+together with his reſolution, hee deſired that all things might be made ready, and that his Sumpture horſes might be forthwith in readineſſe, which was ac<g ref="char:EOLhyphen"/>cordingly performed.</p>
+            <p>His Majeſty hath further declared, that he deſires nothing more earneſtly, then to ſee this languiſhing Kingdome ſetled in peace and unity, that ſo all his loyall Subjects throughout his Majeſties Realms and Dominions, may enjoy a firme and laſting Peace.</p>
+            <p>And for the accompliſhing of theſe his Majeſties Deſires, the Officers and Souldiers under command of his Excellency Sir <hi>Thomas Fairfax,</hi> hath ſent up <hi>Propoſitions for Peace,</hi> to Both Houſes of Parliament, for the ſpeedy ſetling of the Kingdome of <hi>England,</hi> and Dominion of <hi>Wales</hi> in peace and amity; which Propoſitions are briefly drawn up into 8 Heads, as followeth.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="propositions_for_peace">
+                        <head>Propoſitions for Peace, propoſed to both Houſes of Parlia<g ref="char:EOLhyphen"/>ment, for a ſafe and well-grounded Peace, through<g ref="char:EOLhyphen"/>out the Kingdome of <hi>England,</hi> and Domi<g ref="char:EOLhyphen"/>nion of<hi>Wales.</hi>
+                        </head>
+                        <p>
+                           <list>
+                              <item>1 That the declaration inviting men to deſert the Army, and promiſing their arrears in caſe they do ſo, may be recal<g ref="char:EOLhyphen"/>led and annulled.</item>
+                              <item>2 That the Army may be preſently paid up, equally to thoſe that have deſerted it.</item>
+                              <item>3 <p>That His Majeſties coming to Richmond may be ſuſ<g ref="char:EOLhyphen"/>pended, untill affairs be ſetled.</p>
+                                 <p>And in the mean time, no place may be appointed that may be any nearer to London, then the Parliament will al<g ref="char:EOLhyphen"/>low the quarters of the Army to be.</p>
+                              </item>
+                              <item>
+                                 <pb facs="tcp:160346:4"/>
+4 That the Members charged, may be forthwith ſuſpen<g ref="char:EOLhyphen"/>ded or ſequeſtred the Houſe.</item>
+                              <item>5 That thoſe that dave deſerted the Army may be inſtant<g ref="char:EOLhyphen"/>ly diſcharged, and diſperſed, and receive no more of their arrears till the Army be firſt ſatisfied.</item>
+                              <item>6<g ref="char:punc">▪</g> That both Parliament and City may be ſpeedily, and effectually freed from thoſe multitudes of Reformadoes &amp; ſouldiers before mentioned, that flock together bout Lon<g ref="char:EOLhyphen"/>don, by a ſpeedy diſpatch, and diſcharging of them from the City.</item>
+                              <item>7 That ſuch liſtings, or raiſing of new Forces, or drawing together of any before mentioned, and all preparations to<g ref="char:EOLhyphen"/>wards a new war, may be effectually declared againſt and ſuppreſſed as alſo all invitations, or endeavours to draw in forreign forces.</item>
+                              <item>8 That the preſent perplexed aſtairs of the Kingdome, and thoſe concerning the Army, as alſo all the things deſi<g ref="char:EOLhyphen"/>ered in our late repreſentation in behalfe of the Kingdome, may be put in ſome ſpeedy way of ſetlement and compo<g ref="char:EOLhyphen"/>ſure.</item>
+                           </list>
+                        </p>
+                        <closer>
+                           <signed>By the appointment of His Excel<g ref="char:EOLhyphen"/>lence Sir <hi>Thomas Fairfax</hi> and the Councell of Warre. JOHN RUSHWORTH, Secretary.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>In anſwer to which; the Generall hath re<g ref="char:EOLhyphen"/>ceived the Votes of both Houſes of Parlia<g ref="char:EOLhyphen"/>men, which hath given a great deale of ſatiſ<g ref="char:EOLhyphen"/>faction to the army, they being now ſatisfied in moſt of their deſi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. Whereupon the Generall preſently gave out Orders, for the drawing back of the army, and the Head-quarters
+<pb facs="tcp:160346:4"/>
+to be at <hi>Wickham,</hi> 27. miles from <hi>London.</hi>
+            </p>
+            <p>And in further purſuance of the ſaid vote the Generall writ a Letter to the Commiſ<g ref="char:EOLhyphen"/>ſioners of Parliament with the army, and a<g ref="char:EOLhyphen"/>nother to the Commiſſioners for the City of <hi>London,</hi> for them to acquaint the Parl. and City with the proceedings of the army, and their drawing further back from <hi>London.</hi>
+            </p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>My Lords and Gentlemen,</salute>
+                  </opener>
+                  <p>BY the Votes you pleaſed to communi<g ref="char:EOLhyphen"/>cate to me this morning, I find the Par<g ref="char:EOLhyphen"/>liament hath taken into their conſideration the Propoſitions of the army, which neceſſa<g ref="char:EOLhyphen"/>rily craved ſome ſatisfaction before the with drawing of it; and that their progreſſe al<g ref="char:EOLhyphen"/>ready made (though but in part) meets with ſuch a complyance in my Councell of war, that it begets in them a generall confidence, of the Houſes ſpeedy and full anſwer to the remaining Propoſitions; and therfore to te<g ref="char:EOLhyphen"/>ſtifie the readineſſe of this army to obſerve the Commands of Parliament, they have re<g ref="char:EOLhyphen"/>ſolved to remove the army to a farther di<g ref="char:EOLhyphen"/>ſtance,
+<pb facs="tcp:160346:5"/>
+and the head quarters to be at <hi>Wick<g ref="char:EOLhyphen"/>ham,</hi> believing, that this forwardneſſe on their part to ſatisfie both Parliament &amp; Ci<g ref="char:EOLhyphen"/>ty, will not retard, but haſten the Reſoluti<g ref="char:EOLhyphen"/>ons of the Houſes with a full ſatisfaction to the particulars not yet anſwered.</p>
+                  <p>This is a perfect Copy of his Excellencies own Letter, deſiring you to haſten the pub<g ref="char:EOLhyphen"/>liſhing of it, and to ſend us downe two or three hundred Copies for the uſe of the ar<g ref="char:EOLhyphen"/>my, and I ſhall remain</p>
+                  <closer>
+                     <dateline>Wickham <date>2 July 1647.</date>
+                     </dateline>
+                     <signed>Yours to command, <hi>R. RISHTON.</hi>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
